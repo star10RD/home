@@ -59,7 +59,6 @@ const Home = React.forwardRef((props, ref) => {
         <Leadership
           heading={leadership.heading}
           message={leadership.message}
-          img={leadership.images}
           imageSize={leadership.imageSize}
         />
       )}
